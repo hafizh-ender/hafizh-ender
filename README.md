@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hafizh Renanto Akhmad
-- 👀 I’m interested in coding and software development, though not taking informatics degree.
-- 🌱 I’m currently learning Matlab and Python, primarily because required for univ. works, but I'm looking for learning other languages.
+- 👀 I’m interested in data science, though not taking informatics degree.
+- 🌱 I’m currently learning C++, Matlab, and Python. Primarily because required for univ. works, but I'm looking for learning other languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
