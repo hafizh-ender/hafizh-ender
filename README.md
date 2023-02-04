@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hafizh Renanto Akhmad
 - 👀 I’m interested in data science, though not taking informatics degree.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++, Python, and Matlab.
+- 💞️ I’m looking to collaborate on a data science project
 - 📫 How to reach me ...
 
 <!---
